@@ -41,7 +41,7 @@
     "react-transition-group": "^2.4.0",
     "react-virtualized": "^9.22.3",
     "striptags": "^3.2.0",
-    "swiper": "^8.4.5",
+    "swiper": "^14.2.0",
     "@headlessui/react": "^1.4.3",
     "@heroicons/react": "^1.0.5",
     "@tailwindcss/forms": "^0.4.0",
